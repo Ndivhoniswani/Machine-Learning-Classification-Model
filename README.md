@@ -1,6 +1,6 @@
 # Which Customers will Stop Buying Our Product?
 
-![Power BI](https://github.com/Ndivhoniswani/Empower-Farmers-with-Actionable-Insights/blob/main/Regression-Formula.jpg)
+![Power BI](https://github.com/Ndivhoniswani/Machine-Learning-Classification-Model/blob/main/Customer-Churn-Prediction-picture.webp)
 
 ### Table of Contents
 - [Project Overview](#Project-Overview)
