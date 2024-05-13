@@ -12,13 +12,15 @@
 - [Usage](Usage)
 
 ### Project Overview
-Join us as we delve into a rich agricultural dataset, unlocking the secrets to higher yields! We'll explore how factors like geography, weather patterns, soil composition, and farm management practices all intricately influence crop production. Our goal? To translate this knowledge into actionable insights that empower farmers to make informed decisions and achieve greater agricultural productivity.
+There are 1.88 million clients in this dataset. There are 1.5 million clients in train and 380,000 clients in test. The objective of this challenge is to create a machine-learning model that can forecast the probability of each customer becoming inactive and refraining from making any transactions for a period of 90 days.
 
 ### Data Source
-- farm_survey_small.db
-- data_ingestion.py
-- field_data_processor.py
-- validate_data.py
+- Train.csv
+- Test.csv
+- VariableDescription.csv
+- SampleSubmmission.csv
+
+**Note:** This csv files can be downloaded from this website https://zindi.africa/competitions/sasol-customer-retention-recruitment-competition/data
 
 ### Key Ponits
 1. **Understanding the Data**: Gained a solid grasp of the dataset's structure, variables, and relationships, laying the foundation for insightful analysis.
@@ -44,7 +46,7 @@ Join us as we delve into a rich agricultural dataset, unlocking the secrets to h
 
 ### Tools
 - Python
-- Regression
+- Classification
 - Jupyter Notebook
 
 ### Results
