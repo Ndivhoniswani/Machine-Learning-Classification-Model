@@ -1,1 +1,1 @@
-# Let's create a model to predict customer loss.
+# Which Customers will Stop Buying Our Product.
