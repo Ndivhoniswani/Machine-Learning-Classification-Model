@@ -22,6 +22,7 @@ There are 1.88 million clients in this dataset. There are 1.5 million clients in
 
 **Note:** This csv files can be downloaded from this website https://zindi.africa/competitions/sasol-customer-retention-recruitment-competition/data
 
+
 ### Key Ponits
 1. **Understanding the Data**: Gained a solid grasp of the dataset's structure, variables, and relationships, laying the foundation for insightful analysis.
 
@@ -51,6 +52,8 @@ There are 1.88 million clients in this dataset. There are 1.5 million clients in
 
 ### Results
 This project yields a sophisticated standard yield prediction model, boasting an exceptional 96% R-squared score and a low RMSE of 0.05%. This powerful tool can estimate potential crop yields based on various agricultural factors, empowering farmers and stakeholders with valuable insights to optimize crop production and profitability.
+
+### Recommendation
 
 ### Usage
 - Run the ipynb file: Regression Project.ipynb
