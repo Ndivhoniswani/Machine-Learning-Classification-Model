@@ -1,1 +1,1 @@
-# Lets build a model to predict if a customer will become inactive?
+# Let's create a model to predict customer inactivity.
