@@ -49,7 +49,10 @@ It is the process of using data analysis and predictive modeling techniques to i
 - Jupyter Notebook
 
 ### Results
-This project yields a sophisticated churn prediction model, boasting an exceptional 67.7% f1 score. This powerful tool can estimate potential crop yields based on various agricultural factors, empowering farmers and stakeholders with valuable insights to optimize crop production and profitability.
+This project yields a sophisticated churn prediction model, boasting an exceptional 67.7% f1 score. This powerful tool can estimate potential customer churn based on various customer factors, empowering company stakeholders with valuable insights to avoid lossing customers and low profitability.
+
+The first table is my f1 scores with 67.7% being the highest and table 2 is the leaderboard with f1 score of 70%. This shows that my f1 score is in the same range.
+
 
 ![Power BI](https://github.com/Ndivhoniswani/Machine-Learning-Classification-Model/blob/main/Submissions.png)
 
