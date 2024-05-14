@@ -4,7 +4,7 @@
 
 ### Table of Contents
 - [Project Overview](#Project-Overview)
-- [What is Customer Churn(#What-is-Customer-Churn)
+- [What is Customer Churn](#What-is-Customer-Churn)
 - [Data Source](#Data-Source)
 - [Tools](#Tools)
 - [Key Points](#Key-Points)
