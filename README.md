@@ -4,6 +4,7 @@
 
 ### Table of Contents
 - [Project Overview](#Project-Overview)
+- [What is Customer Churn(#What-is-Customer-Churn)
 - [Data Source](#Data-Source)
 - [Tools](#Tools)
 - [Key Points](#Key-Points)
@@ -13,6 +14,9 @@
 
 ### Project Overview
 There are 1.88 million clients in this dataset. There are 1.5 million clients in train and 380,000 clients in test. The objective of this challenge is to create a machine-learning model that can forecast the probability of each customer becoming inactive and refraining from making any transactions for a period of 90 days.
+
+### What is Customer Churn?
+It is the process of using data analysis and predictive modeling techniques to identify customers who are likely to stop using a product or service. Churn, in this context, refers to customer attrition or the loss of customers from this African Telecommunications Company.
 
 ### Data Source
 - Train.csv
