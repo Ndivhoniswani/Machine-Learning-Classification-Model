@@ -27,26 +27,20 @@ It is the process of using data analysis and predictive modeling techniques to i
 **Note:** This csv files can be downloaded from this website https://zindi.africa/competitions/sasol-customer-retention-recruitment-competition/data
 
 
-### Key Ponits
+### Key Points
 1. **Understanding the Data**: Gained a solid grasp of the dataset's structure, variables, and relationships, laying the foundation for insightful analysis.
 
-2. **Data Cleanup and Enhancement**: Meticulously cleaned the data to enhance its usability, effectively managing missing values and inconsistencies.
+2. **Exploring Data Patterns**: Conducted thorough exploratory data analysis (EDA) to uncover hidden patterns, reveal relationships, identify crucial variables with charts.
 
-3. **Exploring Data Patterns**: Conducted thorough exploratory data analysis (EDA) to uncover hidden patterns, reveal relationships, and identify crucial variables.
+3. **Data Cleanup and Enhancement**: Meticulously cleaned the data to enhance its usability, effectively managing missing values and inconsistencies
 
-4. **Enhancing Features**: Revamped the model's features using innovative techniques, boosting its ability to make accurate predictions.
+4. **Feature Engineering**: Transform categorical data into actionable insights through label encoding and dummy variable techniques. By encoding labels and creating dummy variables, unlock the full potential of the dataset.
+   
+5. **Data Preparation**: Streamlined data processing by addressing imbalance dataset using SMOTE, scaling numerical dataset using Robust scaler function, and dividing the dataset into training and testing sets.
 
-5. **Data Preparation**: Streamlined data processing by encoding categorical variables, scaling numerical features, and dividing the dataset into training and testing sets.
+7. **Powerful Model Ensemble**: Utilized a diverse array of machine learning algorithms, including Lightgbm, Catboost, Xgboost, to create a robust churn prediction model
 
-6. **Powerful Model Ensemble**: Utilized a diverse array of machine learning algorithms, including Linear Regression, Random Forest Regression, Support Vector Machine and Decision Tree Regression, to create a robust standard yield prediction model.
-
-7. **Fine-Tuning for Performance**: Optimized model performance through advanced hyperparameter tuning.
-
-8. **Model Effectiveness Evaluation** : Achieved an impressive 96% R2 score and rmse of 0.05% using the Random Forest Regression model, meticulously measuring model accuracy and reliability.
-
-9. **Identifying Influential Factors**: Analyzed feature importance to uncover the key elements driving standard yield fluctuations, enhancing interpretation and decision-making.
-
-10. **Future-Ready Predictive Insights**: Armed with a high-accuracy model, confidently predict standard yield, bridging the gap between farmers and stakeholders in the dynamic agriculture market.
+8. **Model Effectiveness Evaluation** : Achieved an fi score of  67.7% and using the classification model, meticulously measuring model accuracy and reliability.
 
 
 ### Tools
@@ -58,6 +52,11 @@ It is the process of using data analysis and predictive modeling techniques to i
 This project yields a sophisticated standard yield prediction model, boasting an exceptional 96% R-squared score and a low RMSE of 0.05%. This powerful tool can estimate potential crop yields based on various agricultural factors, empowering farmers and stakeholders with valuable insights to optimize crop production and profitability.
 
 ### Recommendation
+To mitigate customer churn in the telecom company, consider implementing proactive measures tailored to enhance customer satisfaction and loyalty. Here are some recommendations:
+
+- Create personalized communication
+- Service quality improvement
+- Customer experience enhancement
 
 ### Usage
 - Run the ipynb file: Regression Project.ipynb
